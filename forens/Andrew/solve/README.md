@@ -4,7 +4,8 @@ Andrew!
 
 Andrew!
 
-1. Run the image through binwalk, obtaining a zlib with another image inside. 
-2. Go to the pastebin in the image and key in the password (also in the image) to obtain the flag.
+1. Run the image through exiftool, and look for `hci_yourlinkis{https://pastebin.com/v7xR8Le4}` and `hci_yourpasswordis{4ndrew4ndrew}`
 
-**Flag**: `hci{Release_the_nietspE_files!!}`
+2. Go to the pastebin link and key in the password to obtain the flag
+
+**Flag**: `hci{wh3r3_4r3_th3_3pst31n_f1les?}`
